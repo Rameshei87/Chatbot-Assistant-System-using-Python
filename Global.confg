@@ -1,0 +1,18 @@
+### Execute RATING process
+5|/home/wbsbatch/PM/bin/StartRating.sh|
+3|/home/wbsbatch/PM/bin/StartReprice.sh|
+6|/home/wbsbatch/PM/bin/StartRerate.sh|
+### Execute Summary Generation procedure
+8|/home/wbsbatch/PM/bin/StartSummary.sh|
+12|/home/wbsbatch/PM/bin/GenerateTAP.sh|
+1|/home/wbsbatch/PM/bin/PreTAPA.sh|
+10|/home/wbsbatch/PM/bin/PreTAPU.sh|
+2|/home/wbsbatch/PM/bin/ProcessTAP.sh|
+45|/home/wbsbatch/PM/bin/MissingRapout.sh|
+42|/home/wbsbatch/PM/bin/trigger_erp_job.sh|
+43|/home/wbsbatch/PM/bin/trigger_erp_ack_job.sh|
+7|/home/wbsbatch/PM/bin/BSOUT.sh|
+31|/home/wbsbatch/PM/bin/PreNrtrde.sh|
+32|/home/wbsbatch/PM/bin/GenNrtrde.sh|
+33|/home/wbsbatch/PM/bin/ProcessNrtrde.sh|
+
